@@ -1,7 +1,7 @@
 # Medical-office-management-system
-##1- Objectif :
+## 1- Objectif :
 La réalisation d’une application de la gestion des RDV d’un cabinet médical
-##2- Fonctionnement :
+## 2- Fonctionnement :
 * Le patient cherche le médecin selon le nom, la spécialité ou la ville.
 * La gestion des rendez-vous est une tâche essentielle du médecin, celle-ci vérifie la disponibilité
 de la date demandée et par la suite il ajoute un rendez-vous en saisissant les renseignements
@@ -9,7 +9,7 @@ nécessaires.
 * Le médecin contient toutes les fonctionnalités, il peut accéder à n'importe quelles tâches.
 * Le patient peut prendre un rendez-vous après son authentification
 
-##3- Conception du système :
+## 3- Conception du système :
 
 Médecin : gère les rendez-vous
 Patient : Prendre des rendez-vous
