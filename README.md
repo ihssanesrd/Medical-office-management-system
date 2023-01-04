@@ -25,7 +25,7 @@ Un RDV peut être pris par un patient chez un médecin.
   ## 4- Réalisations :
   Une fois l'application lancée elle affiche un écran d'accueil qui permet à l'utilisateur de selectionner de quel types d'utilisateurs il s'agit pour ensuite afficher les fonctinalité de gestion correspondante à chacun
   ![image](https://user-images.githubusercontent.com/78508211/210518499-8235215d-a2b4-49ff-bbd8-6541a9622960.png)  
-  * Si je suis un medecin:
+  * __Si je suis un medecin__:
   je peux pas accéder aux fonctionalités avant de m'authentifier :  
   ![image](https://user-images.githubusercontent.com/78508211/210519633-9ca584e1-9766-4227-bd89-b99c2ad35997.png)  
   ![image](https://user-images.githubusercontent.com/78508211/210519898-71bfec37-7e2e-432a-9297-e640a823bd44.png)  
@@ -37,7 +37,7 @@ je peux chercher les rendez vous d'un patient par le code patient ou par son nom
 je peux aussi modifier un rendez vous.
 si deux rdv s'interferent alors la modification est imposible:
 ![image](https://user-images.githubusercontent.com/78508211/210522191-e320eed0-7222-440b-ab80-2830f04f2094.png)
-* Si je suis un medecin:
+* __Si je suis un patient__ :
   je peux pas accéder aux fonctionalités avant de m'authentifier :
   ![image](https://user-images.githubusercontent.com/78508211/210523093-4d2a10e2-9e78-4bc4-b74e-b79409ac5cec.png)
   ![image](https://user-images.githubusercontent.com/78508211/210523368-abf85ac9-069c-423d-81dc-588e0070f950.png)  
