@@ -29,7 +29,7 @@ Un RDV peut être pris par un patient chez un médecin.
   je peux pas accéder aux fonctionalités avant de m'authentifier :  
   ![image](https://user-images.githubusercontent.com/78508211/210519633-9ca584e1-9766-4227-bd89-b99c2ad35997.png)  
   ![image](https://user-images.githubusercontent.com/78508211/210519898-71bfec37-7e2e-432a-9297-e640a823bd44.png)  
-  ![image](https://user-images.githubusercontent.com/78508211/210520448-a212b5e9-a788-4511-ab60-396322d5a8c4.png)
+  ![image](https://user-images.githubusercontent.com/78508211/210520448-a212b5e9-a788-4511-ab60-396322d5a8c4.png)  
 J'accede par la suite à une liste de tous les rendez-vous programmé  
 ![image](https://user-images.githubusercontent.com/78508211/210521070-859f1391-7def-4894-9cde-b01550dc66b4.png)  
 je peux chercher les rendez vous d'un patient par le code patient ou par son nom et prenom:
